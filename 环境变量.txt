@@ -1,0 +1,48 @@
+SVN_BIN  D:\Program Files (x86)\Subversion\bin
+PYCHARM_BIN D:\pycharm\PyCharm Community Edition 2018.1.4\bin
+QWT_BIN D:\Qwt\lib
+QT_2013_BIN D:\Qt\Qt5.9.0\5.9\msvc2013_64\bin
+QT_2015_64_BIN          D:\Qt\Qt5.9.0\5.9\msvc2015_64\bin
+PYTHON_3.6.3  D:\Python3.6.3
+PYTHON_3.6.3_scripts D:\Python3.6.3\Scripts
+
+PCL_FLANN   C:\Program Files\PCL 1.8.0\3rdParty\FLANN\bin
+PCL_OpenNI2 C:\Program Files\PCL 1.8.0\3rdParty\OpenNI2\Tools
+PCL_Qhull  C:\Program Files\PCL 1.8.0\3rdParty\Qhull\bin
+PCL_ROOT  C:\Program Files\PCL 1.8.0
+PCL_VTK  C:\Program Files\PCL 1.8.0\3rdParty\VTK\bin
+OPENGL D:\OpenGl
+OPENGL_BIN D:\OpenGl\bin
+OPENCV_CONTIRB_3.4.1_BIN   D:\opencv3.4.1contrib\opencv3.4.1vs2013\install\x64\vc12\bin
+OPENCV_3.4.1_BIN_2  D:\opencv3.4\opencv\build\x64\vc15\bin
+OPENCV_2.4.11_BIN  D:\opencv2.4.11\opencv\build\x64\vc12\bin
+POINTGREY_BIN     C:\Program Files\Point Grey Research\FlyCapture2\bin64
+PHYSX    C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+
+CUDA_PATH  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
+HALCON12.0_BIN   d:\Program Files\MVTec\HALCON-12.0\bin\x64-win64
+HALCON12.0_FLEXlm    d:\Program Files\MVTec\HALCON-12.0\FLEXlm\x64-win64
+PCL_GPU_BIN D:\pcl-gpu\sources\bin
+
+TBB_BIN  D:\TBB\tbb2019_20181203oss\bin\intel64\vc12
+CMDER  D:\cmder
+GRAPHVIZ_BIN D:\Program Files (x86)\Graphviz2.38\bin
+GIT_CMD  d:\Program Files\Git\cmd
+OPEN3D_BIN D:\open3d\open3d\bin
+PLEORA C:\Program Files\Common Files\Pleora
+PLEORA_x86 C:\Program Files (x86)\Common Files\Pleora
+PERL64_BIN C:\Perl64\bin
+PERL_SITE_BIN C:\Perl64\site\bin
+KOMODO_IDE  D:\Program Files (x86)\ActiveState Komodo IDE 11\
+MVS_x86 C:\Program Files (x86)\Common Files\MVS\Runtime\Win32_i86
+MVS_x64 C:\Program Files (x86)\Common Files\MVS\Runtime\Win64_x64
+CUDA_v10_BIN C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin
+CUDA_v10_LIBVVP C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp
+CUDA_SAMPLES_BIN C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.0\bin\win64
+CUDA_SAMPLES_LIB   C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.0\common\lib\x64
+MSBUILD  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+DirectX_BIN_x86  D:\Program Files (x86)\Microsoft DirectX SDK (August 2007)\Utilities\Bin\x86
+CUDA_LIB_x64   C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\lib\x64
+VisualSVN_BIN D:\Program Files\VisualSVN Server\bin
+TortoiseSVN_BIN  D:\Program Files\TortoiseSVN\bin
+NvDLISR   C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
